@@ -62,9 +62,8 @@ We will support real-time multiplayer using a server-client architecture via UDP
 	* Save and load game state
 	* Player movement
 * Procedural Generation
-	* Working procedural function that produces an output
-	* Chunks loading 
-	* Basic cave generation
+	* Working procedural function that produces an output for caves, biomes, and ores; possibly in bitmap format.
+	
 * Networking
 	* Server that can support at least one client
 	* Synchronization between server and client(s)
