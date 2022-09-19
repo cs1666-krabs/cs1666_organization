@@ -44,7 +44,7 @@ https://github.com/cs1666-krabs/game
 
 ## Game Description
 
-Our game is a multiplayer downward scrolling adventure game where the players’ goals are to collect resources and discover what is deeper down in the world through mining blocks and exploring caves.
+Our game is a multiplayer adventure/sandbox game. Players will be able to explore and dig in an infinite, procedurally-generated, vertically-scrolling 2D grid world. Players will be able to join together in a multiplayer world to mine blocks, collect resources, and delve deep underground to discover what lies below.
 
 ## Advanced Topic Description
 
