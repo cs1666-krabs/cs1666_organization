@@ -50,7 +50,7 @@ Our game is a multiplayer downward scrolling adventure game where the players’
 
 ### Procedural Generation
 
-We will procedurally generate terrain on a vertically-infinite 2D grid, including ore clusters, biomes, and structures. Generation will use a noise function and a random number generator.
+We will procedurally generate terrain on a vertically-infinite 2D grid, including ore clusters, biomes, and structures.  The surface will be created to look vaguely like a beach biome, and will be generated using a 2D Perlin Slice.  Below the surface, we will use noise functions (probably Simplex Noise or Perlin Noise, possibly in combination with Perlin Worms for longer caves) and a random number generator.  It should be expected that we will experiment with different noise functions and view their outputs until we uncover what works the best.  Mineable ores will be generated in conjuction with these open caves, and will be placed at random intervals.
 
 ### Networking
 
@@ -62,8 +62,8 @@ We will support real-time multiplayer using a server-client architecture via UDP
 	* Save and load game state
 	* Player movement
 * Procedural Generation
-	* Simple generated terrain in a finite world
-	* Cave generation
+	* Procedural Function to generate caves
+	* Procedural Function to generate surface
 * Networking
 	* Server that can support at least one client
 	* Synchronization between server and client(s)
