@@ -54,7 +54,7 @@ We will procedurally generate terrain on a vertically-infinite 2D grid, includin
 
 ### Networking
 
-We will support real-time multiplayer using a server-client architecture via UDP and create a server browser via TCP. The server and clients will stay in sync via a custom protocol.
+We will support real-time multiplayer using a server-client architecture. Players will be able to coexist in the same game world and interact with it at the same time. The server and clients will communicate via a custom protocol built on top of UDP. This protocol will enable synchronization of relevant information including player state and world state. As a stretch goal, we will create a server browser that will allow players to easily join servers.
 
 ## Midterm Goals
 
