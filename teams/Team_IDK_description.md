@@ -71,7 +71,11 @@ Generating game elements:
  
 Our combat system would be a turn-based card game that takes place between the player and one enemy AI at a time. The main goal for the player is to reduce the enemy HP to 0 to win the battle, and vice versa. For the enemy AI, we decided to use reinforcement learning to train them through Q-learning. We think that for a turn-based game, Q-learning can suit the scenario well. It will update the state-action table through training. We will assign two terminal states to it, one is defeating the player, which will be rewarded greatly, and the other is being defeated, which is what we would like it to avoid. We would be assigning states based on the combination of actions made by the player and the current state of both sides. The algorithm will be based on the Bellman Equation for the value iteration update. The rewards that we assign will be based on damage dealt towards the player and damage taken by the AI. We might be training different sets of AIs by modifying the discount factor.
 
- 
+## Concept Arts
+
+![Map](Team_IDK_Procedual_Generated_Layout.png)
+![Combat](Team_IDK_Turn-Based_Combat.JPG)
+
 ## Midterm Goals
  
 * Have a working map/room
