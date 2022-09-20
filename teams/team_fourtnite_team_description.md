@@ -43,14 +43,14 @@ We have set out to make a creature-collecting rpg set in a post-apocalyptic worl
 
 Our game is set apart from others by three core concepts: Monsters/Battling, Procedural Generation, and Multiplayer.
 
-## Battles 
+### Battles 
 
 Battles take place on their own screen that is cut to when entering the battle. The Battle Screen presents your Monster Trainer’s Monster facing another Monster in a battle with UI that tracks basic creature info for each of them (health, level, your creature’s total actions). Differently from Pokemon, the game operates with a turn-based system that gives the first turn of action to whichever Monster has the highest speed stat initially. During a turn, a creature can perform a number of Attacks/Moves equal to the total actions that can be performed by them. 
 
 Our basic battle mechanics should be a 'Type' damage-system, actions that do damage or defend against damage, and multi-action combat that lets you do multiple moves in a turn. Battle mechanics here are focusing on stats but without changing them or the battle pattern, and include 'Attack' and 'Defend' moves. Advanced battle mechanics would then focus on Moves that change how a battle is played. This would include Moves that change the turn order or actions taken per turn combat, change the stats of the enemy/your Monster, or even force you or your enemies' Monster out to different Monster that is in your fighting Party. These moves are under the category 'Special' as each move should act on stats, not damage values (though indirectly may affect damage calculations)
 
 
-### Types & Moves
+#### Types & Moves
 
 To fit our future wasteland theme, we are implementing our own typing system that mimics the elemental strengths/weaknesses systems present in many JRPGs. When an Attacker damages a Defender, any strengths or weaknesses are included in damage calculations. Our goal with types is to invite design reminiscent of post-apocalyptic themes, while staying grounded so that the design plays well and can be picked up on quickly. Our current goal is 6-8 types for the final game, but if possible we could come up with 9-12. Design challenges regarding developing the base movesets for each type could include having each type be strong in some very specific way (e.g. Robot Type has high ACT, Rad Type has an abnormally strong Attack move early.) Each type should have 1-2 Attack, Defense, and Special moves each and have 4 known moves maximum, so we expect to develop around 24-30 technically distinct basic moves and 10-12 more unique special moves.
 
