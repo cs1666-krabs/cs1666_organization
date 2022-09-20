@@ -50,7 +50,7 @@ Our game is a multiplayer adventure/sandbox game. Players will be able to explor
 
 ### Procedural Generation
 
-We will procedurally generate terrain on a vertically-infinite 2D grid, including ore clusters, biomes, and structures.  The surface will be created to look vaguely like a beach biome, and will be generated using a 2D Perlin Slice.  Below the surface, we will use noise functions (probably Simplex Noise or Perlin Noise, possibly in combination with Perlin Worms for longer caves) and a random number generator.  It should be expected that we will experiment with different noise functions and view their outputs until we uncover what works the best.  Mineable ores will be generated in conjuction with these open caves, and will be placed at random intervals.
+We will procedurally generate terrain on a vertically-infinite 2D grid, including ore clusters, biomes, and structures.  The surface will be created to look vaguely like a beach biome, and will be generated using a 2D Perlin Slice.  Below the surface, we will use noise functions (probably Simplex Noise or Perlin Noise, possibly in combination with Perlin Worms for longer caves) and a random number generator.  It should be expected that we will experiment with different noise functions and view their outputs until we uncover what works the best.  Mineable ores will be generated in conjunction with these open caves, and will be placed at random intervals.
 
 ### Networking
 
@@ -58,33 +58,34 @@ We will support real-time multiplayer using a server-client architecture. Player
 
 ## Midterm Goals
 
-* General
-	* Save and load game state
-	* Player movement
-* Procedural Generation
-	* Procedural Function to generate caves
-	* Procedural Function to generate surface
-* Networking
-	* Server that can support at least one client
-	* Synchronization between server and client(s)
+* Save and load game state
+* Player movement
+* Display basic finite, static map
+* Server that can support at least one client
+* Communication between server and client(s)
 
 ## Final Goals
 
 * General (20%)
-	* 5%: User interface
-	* 5%: Simple inventory
-	* 5%: Mining
-	* 5%: 60 FPS
-* Procedural (30%)
-	* 10%: At least 2 distinct biomes
+	* 10%: Players can mine blocks into inventory
+	* 10%: UI that displays inventory
+		* Display only, no interaction
+* Procedural Generation (30%)
 	* 10%: Infinite world (downward)
-	* 10%: Ore generation
+	* 10%: Cave generation
+		* Players should almost always be able to see a cave on screen
+		* Perlin/Simplex noise, maybe Perlin worms
+	* 5%: At least 2 distinct biomes
+		* Changes ore generation and structure frequency
+	* 5%: Ore generation
+		* Clumps of rare, unique blocks
 * Networking (30%)
-	* 10%: Only sync changes, not entire state
-	* 15%: Can sync at least 4 clients
-	* 5%: Single-change sync occurs in less than 1 frame
+	* 10%: Synchronizes game state
+	* 15%: Can sync at least 2 clients
+	* 5%: Efficient state synchronization
 
 ## Stretch Goals
 
-* Unique underground structures
-* Server browser
+* At least 1 type of generated underground structure
+	* Buildings, mineshafts, trees, etc
+* Support at least 4 players in multiplayer
