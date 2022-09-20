@@ -78,7 +78,7 @@ The overworld play area will be mostly procedurally generated using an algorithm
 | 10             | PvP battles              | Players can battle other players                                                                                                               |
 | 10             | PvE battles              | Players can battle boses alongside other players                                                                                               |
 | Proc Gen:20%   |                          |                                                                                                                                                |
-| 10             | WFC Full World           | Propagation algorithm runs so that WFC recursively generates tiles until hitting world borders                                                 |
+| 10             | WFC World                | Propagation algorithm runs so that WFC recursively generates chunks                                               |
 | 5              | WFC Adjacency Rules      | Tiles can correctly be generated around collapse anchors according to given adjacency rules; including that WFC cannot overwrite anchor points |
 | 5              | WFC Frequency hints      | WFC can allow for controlling frequency of tiles being placed using a frequency hints matrix                                                   |
 | Networking:20% |                          |                                                                                                                                                |
