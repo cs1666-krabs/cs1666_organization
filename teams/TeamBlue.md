@@ -53,15 +53,17 @@ The fight between the main character and the opponent will be a arcade based sty
 
 * Create one working level with both the conversation and fighting aspects functional
 * AI will pick random choices until the AI teams make an alternative.
+* Player fight UI implemented
 
 ## Final Goals
-
-* 30%: Adjust fighting AI to be more complex, responsive, and easily changeable (this way we can use an AI at Level 1 and reuse it later, just with edited difficulty)
-* 30%: Improve conversational AI to successfully assess the aggressiveness of user-input text; characters respond based on AI evaluated aggressiveness level
-* 20%: Creating a base level that contains, a simple AI for chatting, and an AI for battling
-* 10%: Have the conversation/fighting functional for at least 5 enemies with an arcade-style of progression
+* 20% Fighting UI where the player and AI can punch, kick, and block/duck. 
+* 20% Fight AI that scales in difficulty as the player progresses
+* 20% Chat AI that can analyze the sentiment of user entered text and respond appropriately (with text or move to fight)
+* 10% Chat UI where the player can provide full text input to the AI, and receive text reponses. Can also transition to a fight
+* 10% Player can move around a level and interact with (chat and fight) at least 5 AI entities
+* 10% Base level that user can traverse and enagage in conversation and/or conflcit. 
 
 ## Stretch Goals
 
-* Creating a larger map with more iteration / battles for the user
-* Items can be used in battle that relate to each character battled
+* Add a bigger world map that would allow the player to engage in or talk their way out of up to 10 battles.
+* "Powerup" items that can impact user performance throughout intercations. For example, food items for a health boost, cigarettes for reduced health, energy drink for more stamina. You can also pick up an item from the character you just beat in a fight (for exampple, cowboy hat from your neighbor who is a cowboy) that will boost your performance in next intercation. 
