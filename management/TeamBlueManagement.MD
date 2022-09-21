@@ -1,4 +1,4 @@
-** Team Blue Management Weeks
+# Team Blue Management Weeks
 * Week 1: Birizibe Gnassingbe
 * Week 2: Makayla Miles
 * Week 3: Boaz Joseph 
