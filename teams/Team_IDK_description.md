@@ -82,7 +82,8 @@ Our combat system will be composed of 3 resources, Hp, Tp, and Tokens. Around ei
  
 * Have a working map/room
 * Player movement and collision 
-* Implement combat moveset/system
+* Implement TP moveset
+* Have a Naive Dummy AI
 * Transition from exploration to combat
 * Have working UI (Current level, Minimap, HP bar, TP bar, Token count, combat screen abilities)
  
