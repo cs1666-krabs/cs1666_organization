@@ -60,7 +60,7 @@ Placement of rooms:
 	After placing all of our rooms on the map, we will then create a Delaunay triangulation graph from each of the rooms using the Bowyer-Watson algorithm. This will create connections between the rooms while keeping those connections relatively short. 
  
 Generating paths between rooms:
-  Once we’ve created the Delaunay triangulation graph, we will calculate the minimum spanning tree using Prim’s algorithm or Dijkstra’s algorithm to find the main routing path between the rooms. We will then randomly select a few other edges from the triangulation graph to create a few loops in the map layout. 
+  Once we’ve created the Delaunay triangulation graph, we will calculate the minimum spanning tree using Prim’s algorithm or Kruskal’s algorithm to find the main routing path between the rooms. We will then randomly select a few other edges from the triangulation graph to create a few loops in the map layout. 
   Using the A* search algorithm, we will create the exact layout and path of the hallways between our selected edges from the previous step. 
  
 Generating game elements:
@@ -98,10 +98,10 @@ Our combat system will be composed of 3 resources, Hp, Tp, and Tokens. Around ei
   * Implement Q-Learning Algorithm (10%)
   * Have AI work with TP moveset (10%)
   * Have AI work with Token moveset (10%)
-* Working procedural generated maps/rooms (30%)
-  * Randomly generated room (10%)
-  * Randomly generated map made of rooms (10%)
-  * Character can interact with map/room (10%)
+* Working procedural generated 100x100 "tiles" maps/rooms (30%)
+  * Randomly generated rooms from 6*6 to 12*12 "tiles" (10%)
+  * Randomly generated map made of 25 rooms (10%)
+  * Character can interact with level exit, pick up keys, move around, collide with walls/objects (10%)
  
  
 ## Stretch Goals
