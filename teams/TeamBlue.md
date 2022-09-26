@@ -61,7 +61,6 @@ The fight between the main character and the opponent will be a arcade based sty
 * 20% Chat AI that can analyze the sentiment of user entered text and respond appropriately (with text or move to fight)
 * 10% Chat UI where the player can provide full text input to the AI, and receive text reponses. Can also transition to a fight
 * 10% Player can move around a level and interact with (chat and fight) at least 5 AI entities
-* 10% Base level that user can traverse and enagage in conversation and/or conflcit. 
 
 ## Stretch Goals
 
