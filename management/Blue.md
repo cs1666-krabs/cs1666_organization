@@ -1,12 +1,12 @@
 # CS1666 Team Blue Management weeks
 
 1. 09/14 - 09/20
-	* Manager: NAME
+	* Manager: Birizibe Gnassingbe
 	* Goals:
 		1. Setup game repo
 		2. Add team description
 2. 09/28 - 10/04
-	* Manager: NAME
+	* Manager: Makayla Miles
 	* Goals:
 		1. Create game credits
 2. 10/05 - 10/11
