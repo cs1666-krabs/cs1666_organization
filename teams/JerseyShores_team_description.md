@@ -75,7 +75,7 @@ We will enable the search dog Rover to answer certain questions. We will utilize
 * 20%: Rigidbody Kinematics - Create collision and kinematics mechanics, allowing things to bounce off of each other and roll
   * 5%: collision
   * 5%: rolling
-  * 5%: 2 entites interacting at least
+  * 5%: >2 entites interacting at least
   * 5%: basic kinematics (moving, acceleration, etc.)
 * 20%: Completeness - Player can traverse the scape of the desktop, open and go into folders to view different media such as text files, and pictures
   * 5%: jumping on folders
