@@ -6,7 +6,7 @@
 		1. Setup game repo
 		2. Add team description
 2. 09/28 - 10/04
-	* Manager: NAME
+	* Manager: Nicholas Thompson
 	* Goals:
 		1. Create game credits
 2. 10/05 - 10/11
