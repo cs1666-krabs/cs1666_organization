@@ -1,7 +1,7 @@
 # CS1666 Team Krusty Krabs Management weeks
 
 1. 09/14 - 09/20
-	* Manager: NAME
+	* Manager: Tobias Hildebrandt
 	* Goals:
 		1. Setup game repo
 		2. Add team description
@@ -56,4 +56,4 @@
 	* Goals:
 		1. ...
 		1. ...
-		1. ...		
+		1. ...
