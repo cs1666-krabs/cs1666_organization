@@ -100,4 +100,7 @@ This design for enemies will allow for flexible behavioral patterns for the enem
 ## Stretch Goals
 
 * 5%: Stretch goal 1 -- boss battle
-* 5%: Stretch goal 2 -- jetpack item available and additional levels in the game 
+* 5%: Stretch goal 2 -- jetpack item available and additional level in the game 
+	* the base game will be one level, with at least 6 large rooms for the player to explore
+	* each room will be at least twice as big as the screen display of 1280x720
+	* the additional level will consist of at least 2 new rooms, that require the player to maneuver with the new jetpack mechanic to explore
