@@ -13,10 +13,8 @@
 	* Manager: Boaz Joseph
 	* Goals:
 		1. Create basic player movement using a rectangle (i.e. move up, down, left, right)
-		2. Create basic player attack movement and attack collision 
-		3. Create Health Bars for the player and enemy
-		4. Begin creating the text classifier by taking user input 
-		   and then preprocessing the text removing any unwanted characters or numbers
+		2. Create basic player attack movement (i.e press p to punch, press k to kick)
+		3. Allow user to input text 
 2. 10/12 - 10/18
 	* Manager: NAME
 	* Goals:
