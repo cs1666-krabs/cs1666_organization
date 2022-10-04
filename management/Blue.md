@@ -10,11 +10,11 @@
 	* Goals:
 		1. Create game credits
 2. 10/05 - 10/11
-	* Manager: NAME
+	* Manager: Boaz Joseph
 	* Goals:
-		1. ...
-		1. ...
-		1. ...
+		1. Create basic player movement using a rectangle (i.e. move up, down, left, right)
+		2. Create basic player attack movement (i.e press p to punch, press k to kick)
+		3. Allow user to input text 
 2. 10/12 - 10/18
 	* Manager: Emily Kyle
 	* Goals:
