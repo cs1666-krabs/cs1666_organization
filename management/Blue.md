@@ -1,22 +1,22 @@
 # CS1666 Team Blue Management weeks
 
 1. 09/14 - 09/20
-	* Manager: NAME
+	* Manager: Birizibe Gnassingbe
 	* Goals:
 		1. Setup game repo
 		2. Add team description
 2. 09/28 - 10/04
-	* Manager: NAME
+	* Manager: Makayla Miles
 	* Goals:
 		1. Create game credits
 2. 10/05 - 10/11
-	* Manager: NAME
+	* Manager: Boaz Joseph
 	* Goals:
-		1. ...
-		1. ...
-		1. ...
+		1. Create basic player movement using a rectangle (i.e. move up, down, left, right)
+		2. Create basic player attack movement (i.e press p to punch, press k to kick)
+		3. Allow user to input text 
 2. 10/12 - 10/18
-	* Manager: NAME
+	* Manager: Emily Kyle
 	* Goals:
 		1. ...
 		1. ...
@@ -34,13 +34,13 @@
 		1. ...
 		1. ...
 2. 11/02 - 11/08
-	* Manager: NAME
+	* Manager: Alex Chlpka
 	* Goals:
 		1. ...
 		1. ...
 		1. ...
 2. 11/09 - 11/15
-	* Manager: NAME
+	* Manager: Colin Ferlan
 	* Goals:
 		1. ...
 		1. ...
