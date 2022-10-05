@@ -12,9 +12,7 @@
 2. 10/05 - 10/11
 	* Manager: NAME
 	* Goals:
-		1. ...
-		1. ...
-		1. ...
+		1. Have a moving character on screen
 2. 10/12 - 10/18
 	* Manager: NAME
 	* Goals:
