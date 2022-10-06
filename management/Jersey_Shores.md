@@ -1,12 +1,12 @@
 # CS1666 Team Jersey Shores Management weeks
 
 1. 09/14 - 09/20
-	* Manager: NAME
+	* Manager: Sierra Gordon
 	* Goals:
 		1. Setup game repo
 		2. Add team description
 2. 09/28 - 10/04
-	* Manager: NAME
+	* Manager: Frederik Sorg-Taylor
 	* Goals:
 		1. Create game credits
 2. 10/05 - 10/11
@@ -15,8 +15,8 @@
 		1. ...
 		1. ...
 		1. ...
-2. 10/12 - 10/18
-	* Manager: NAME
+4. 10/12 - 10/18
+	* Manager: Jack Bellamy
 	* Goals:
 		1. ...
 		1. ...
@@ -40,13 +40,13 @@
 		1. ...
 		1. ...
 2. 11/09 - 11/15
-	* Manager: NAME
+	* Manager: Sydni Roller
 	* Goals:
 		1. ...
 		1. ...
 		1. ...
 2. 11/16 - 11/29
-	* Manager: NAME
+	* Manager: Qiran Li
 	* Goals:
 		1. ...
 		1. ...
