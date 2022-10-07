@@ -12,9 +12,9 @@
 2. 10/05 - 10/11
 	* Manager: NAME
 	* Goals:
-		1. ...
-		1. ...
-		1. ...
+		1. Have a moving character on screen
+		2. Create a premade room
+		3. Create combat screen
 2. 10/12 - 10/18
 	* Manager: NAME
 	* Goals:
