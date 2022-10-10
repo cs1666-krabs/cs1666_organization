@@ -4,7 +4,7 @@
 
 * Topic 1: The history of Proc Gen
 	* What is procedural generation?
-	* Definition and origin
+		* Definition and origin
 	* What are some of the broad uses and possibilities?
 		* Simulation
 		* modeling
@@ -12,7 +12,7 @@
 
 * Topic 2: The History of Proc Gen in Video Games
 	* How does proc gen apply to video games specifically
-	* What does it add to the game
+		* What does it add to the game
 			* User experience
 			* Replayability
 	* Different approaches & algorithms
