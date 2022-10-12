@@ -18,9 +18,9 @@
 2. 10/12 - 10/18
 	* Manager: Aidan Walsh
 	* Goals:
-		1. ...
-		1. ...
-		1. ...
+		1. Be able to save and load the world (in chunks of blocks).
+		1. Implement block collision with player
+		1. Implement (basic) camera following player
 2. 10/19 - 10/25
 	* Manager: Alex Haskovec
 	* Goals:
