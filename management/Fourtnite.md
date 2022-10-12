@@ -18,9 +18,10 @@
 2. 10/12 - 10/18
 	* Manager: Dan Li
 	* Goals:
-		1. ...
-		1. ...
-		1. ...
+		1. Create a start menu
+		2. Add character sprite to scene and add movements that are appropriate for the game 
+		3. Allow scrolling of a static map 
+                4. (Possibly) generate a static map as a proof of concept 
 2. 10/19 - 10/25
 	* Manager: Camryn Simons
 	* Goals:
