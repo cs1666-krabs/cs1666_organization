@@ -16,11 +16,12 @@
 		2. Create a premade room
 		3. Create combat screen
 2. 10/12 - 10/18
-	* Manager: NAME
+	* Manager: NONE
 	* Goals:
-		1. ...
-		1. ...
-		1. ...
+		1. implement player & enemy struct
+		2. implement playable TP move sets for player
+		3. implement collision
+		4. fix state transitions
 2. 10/19 - 10/25
 	* Manager: Yuanheng Qu
 	* Goals:
