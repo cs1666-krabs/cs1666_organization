@@ -9,13 +9,13 @@
 	* Manager: Mark Marquez
 	* Goals:
 		1. Create game credits
-2. 10/05 - 10/11
+3. 10/05 - 10/11
 	* Manager: NAME
 	* Goals:
 		1. Have a moving character on screen
 		2. Create a premade room
 		3. Create combat screen
-2. 10/12 - 10/18
+4. 10/12 - 10/18
 	* Manager: NONE
 	* Goals:
 		1. implement player & enemy struct
