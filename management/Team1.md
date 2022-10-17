@@ -18,9 +18,10 @@
 2. 10/12 - 10/18
 	* Manager: James Baker
 	* Goals:
-		1. ...
-		1. ...
-		1. ...
+		1. First main room (1920 x 1080, 1.5 times the size of the screen to ensure scrolling working in all directions).
+		2. Begin designing but not implementing map hazards (cobwebs, spike trap in floor, etc.) 
+		3. Implement non-moving enemies with line of sight, ensure that line of sight provides enough information about what is seen (player, enemy, object, etc.);
+		4. Have some barrels and other breakable object sprites 
 2. 10/19 - 10/25
 	* Manager: Ethan Zhao
 	* Goals:
