@@ -20,6 +20,7 @@
 	* Goals:
 		1. Formulate questions and answers for language processing
 		2. Create a basic parser
+		3. Implement basic 2D player movement
 2. 10/19 - 10/25
 	* Manager: Wuyue Liu
 	* Goals:
