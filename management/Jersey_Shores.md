@@ -9,7 +9,7 @@
 	* Manager: Frederik Sorg-Taylor
 	* Goals:
 		1. Create game credits
-2. 10/05 - 10/11
+3. 10/05 - 10/11
 	* Manager: NAME
 	* Goals:
 		1. ...
@@ -18,9 +18,9 @@
 4. 10/12 - 10/18
 	* Manager: Jack Bellamy
 	* Goals:
-		1. ...
-		1. ...
-		1. ...
+		1. Formulate questions and answers for language processing
+		2. Create a basic parser
+		3. Implement basic 2D player movement
 2. 10/19 - 10/25
 	* Manager: Wuyue Liu
 	* Goals:
