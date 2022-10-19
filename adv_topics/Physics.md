@@ -9,7 +9,7 @@
 * Topic 2: Our Implementation
 	* Rigid body dynamics
 		* Accelartion
-		*Gravity
+		* Gravity
 	* Details
 	* Details
 
