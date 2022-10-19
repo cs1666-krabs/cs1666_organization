@@ -25,9 +25,11 @@
 2. 10/19 - 10/25
 	* Manager: Ethan Zhao
 	* Goals:
-		1. ...
-		1. ...
-		1. ...
+		1. Create basic melee enemy which can pathfind with A* algorithm to reach a set goal
+		2. Have targetable/breakable objects implemented (Breakable spiderweb - negative vector on movement speed)
+		3. Implement attacking and allow player/enemies to be killed
+		4. Create timer that ends game if it reaches 0
+		5. Create a basic item shop without items - blank grid that is available when player enters a shop
 2. 10/26 - 11/01
 	* Manager: NAME
 	* Goals:
