@@ -24,9 +24,10 @@
 2. 10/19 - 10/25
 	* Manager: Camryn Simons
 	* Goals:
-		1. ...
-		1. ...
-		1. ...
+		1. Optimize the current working recursive WFC algorithm and begin to transform it into an iterative algorithm
+		2. Develop basic prototype battle UI that displays monster’s stats and health
+		3. Trigger battle screen through “hitting” monster
+		4. Finalize RPS Demo to ensure fully working demo 
 2. 10/26 - 11/01
 	* Manager: NAME
 	* Goals:
