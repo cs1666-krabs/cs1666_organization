@@ -2,12 +2,14 @@
 
 ## Presentation 1
 
-* Topic 1
+* Topic 1: The History of Physics
 	* Details
 	* Details
 	* Details
-* Topic 2
-	* Details
+* Topic 2: Our Implementation
+	* Rigid body dynamics
+	* * Accelartion
+	* *Gravity
 	* Details
 	* Details
 
