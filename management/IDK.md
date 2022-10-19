@@ -22,12 +22,14 @@
 		2. implement playable TP move sets for player
 		3. implement collision
 		4. fix state transitions
-2. 10/19 - 10/25
+5. 10/19 - 10/25
 	* Manager: Yuanheng Qu
 	* Goals:
-		1. ...
-		1. ...
-		1. ...
+		1. Full UI components (HP & TP, In-game combat log)
+		2. Transition from exploration to combat
+		3. Naive dummy AI
+		4. Be able to generate multiple rooms
+		5. AI presentation outline
 2. 10/26 - 11/01
 	* Manager: Brian Lucas
 	* Goals:
