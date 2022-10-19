@@ -18,9 +18,9 @@
 2. 10/12 - 10/18
 	* Manager: Dan Li
 	* Goals:
-		1. ...
-		1. ...
-		1. ...
+		1. Create a start menu
+		2. Add character sprite to scene. Allow movements in up, down, left, and right directions with the approriate speed. 
+		3. Allow scrolling in all directions of a non-generated map, 5000*3000px in size.
 2. 10/19 - 10/25
 	* Manager: Camryn Simons
 	* Goals:
