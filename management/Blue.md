@@ -24,9 +24,9 @@
 2. 10/19 - 10/25
 	* Manager: Vibhu Kundeti
 	* Goals:
-		1. ...
-		1. ...
-		1. ...
+		1. Create hitboxes for player attacks
+		2. Create game states in conversation stage to logically transition between enemy/player responses
+		3. Create a dummy enemy that registers player hits
 2. 10/26 - 11/01
 	* Manager: NAME
 	* Goals:
