@@ -24,9 +24,8 @@
 2. 10/19 - 10/25
 	* Manager: Wuyue Liu
 	* Goals:
-		1. ...
-		1. ...
-		1. ...
+		1. Implement basic physical collision
+		2. implement basic UI
 2. 10/26 - 11/01
 	* Manager: NAME
 	* Goals:
