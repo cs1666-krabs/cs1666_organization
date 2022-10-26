@@ -31,9 +31,11 @@
 2. 10/26 - 11/01
 	* Manager: Brian Lucas
 	* Goals:
-		1. ...
-		1. ...
-		1. ...
+		1. Implement a graph data structure to store the rooms and hallways(edges)
+		2. Create delauney triangulation of the rooms (Bresenham's algorithm)
+		3. Add features to minimap
+		4. Setup training environment for AI
+		5. Setup agent states for AI training
 2. 11/02 - 11/08
 	* Manager: NAME
 	* Goals:
