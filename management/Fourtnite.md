@@ -31,8 +31,8 @@
 2. 10/26 - 11/01
 	* Manager: Chase Bradley
 	* Goals:
-		1. Improve Tile generation by implementing Seeding and Frequency bias into algorithm
-		2. Improve World generatino so that tiles may generate more infinitely
+		1. Tile generation improvements: Allow seeding chunk generation. This means allowing us to pass predetermined tiles to the generation algorithm which will always have their concrete type regardless of the surrounding generation. An Additional factor, take tile frequency into account for chunk generation.  The distribution of tile types within a generated chunk should be approximately equal to the distribution of those types within the input chunk
+		2. Infinite world generation: The player should be allowed to walk infinitely far in any direction, with chunks being generated as before they walk off the edge of any given chunk. These chunks edges should abide by adjaceny rules
 		3. Setup a connection between players, be able to hit and detect signal
 2. 11/02 - 11/08
 	* Manager: Nathan Myers
