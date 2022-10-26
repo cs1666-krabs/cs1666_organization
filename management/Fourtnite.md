@@ -31,9 +31,9 @@
 2. 10/26 - 11/01
 	* Manager: Chase Bradley
 	* Goals:
-		1. ...
-		1. ...
-		1. ...
+		1. Improve Tile generation by implementing Seeding and Frequency bias into algorithm
+		2. Improve World generatino so that tiles may generate more infinitely
+		3. Setup a connection between players, be able to hit and detect signal
 2. 11/02 - 11/08
 	* Manager: Nathan Myers
 	* Goals:
