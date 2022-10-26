@@ -33,9 +33,12 @@
 2. 10/26 - 11/01
 	* Manager: Ryan Chakov
 	* Goals:
-		1. ...
-		1. ...
-		1. ...
+		1. Implement Perlin noise cave generation algorithm (This is going to probably take 2 weeks so we don't expect to finish)
+		1. Change from a finite map to a infinite downward map
+		1. Implement network heartbeats/acks with sequence numbers
+		2. Serialize player location
+		3. Support multiple clients
+		4. Finish working on Command line arguments
 2. 11/02 - 11/08
 	* Manager: Wilson Biggs
 	* Goals:
