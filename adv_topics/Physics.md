@@ -2,7 +2,7 @@
 
 ## Presentation 1
 
-* History of Physics
+* History of Physics (10 minutes)
 	* Video game physics have existed about as long as games themselves
 	* Early games used pre-rendered animation over real-time math calculations
 		* Why this was popular / why it no longer is
@@ -10,11 +10,11 @@
 		* Allows game developers to take shortcuts
 	* The complexity of calculations and number of factors combined with technical restraints can often lead to bugs
 	* Physics goes into things we won’t be discussing too, like shading, ragdoll physics, etc.
-* Rigid Body Dynamics
+* Rigid Body Dynamics (10 minutes)
 	* Acceleration
 	* Gravity
-	* Collision Detection
-* Breakable Objects (barrels, walls, etc)
+	* Simulating the effects of collision detection
+* Breakable Objects (barrels, walls, etc) (10 minutes)
 	* What are particle systems?
 	* The typical implementation of a particle system
 		* Emitting new particles
@@ -22,7 +22,7 @@
 		* Rendering particles
 	* Melee vs. range attacks
 	* Different sprites denoting level of damage
-* Barrels
+* Barrels (10 minutes)
 	* Common use of barrels in video games
 		* Cliche of exploding barrels in video games
 		* Why they are a nice feature to add
@@ -33,7 +33,7 @@
 		* x= x0 + v0xt+ 1/2axt^2
 		* y = y0 + v0yt+ 1/2gt^2
 	* These projectiles can damage players, objects, and enemies based on their velocity.
-* Projectiles
+* Projectiles (5 minutes)
 	* Arced Projectiles (bow and arrow, barrel stuff) affected by gravity as well as collisions, similar to player motion but with constant horizontal velocity
 	* When colliding with another object, the collided object/enemy’s HP will be reduced
 
