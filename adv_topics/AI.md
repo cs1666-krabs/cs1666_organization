@@ -51,14 +51,41 @@
 
 ## Presentation 2
 
-* Topic 1
-	* Details
-	* Details
-	* Details
-* Topic 2
-	* Details
-	* Details
-	* Details
+* Topic 1 General Talk on Machine Learning
+	* Machine Learning
+		* Supervised vs unsupervised vs reinforcement learning
+	* Reinforcement Learning
+		* What is it used for
+		* Where is it used
+		* Markov Decision Process
+		* Monte carlo
+* Topic 2 Q - Learning
+	* What makes q-learning different from other reinforcement learning techniques
+		* Advantages of it versus other techniques
+		* Where is it used and why
+		* why we choose q learning
+		* Limitations
+* Topic 3 Algorithm & Important Variables
+	* Math
+		* learning rate
+		* reward
+		* discount factor
+		* initial conditions
+		* values
+	* How do these factors affect the agent
+* Topic 4 Implementation 	
+	* Agents
+		* The enemy AI will be the agent
+	* Traits
+	* What is the result of the process
+	* How does it learn through this process
+	* Game mechanics and how they relate to machine learning
+		* Multiple movesets
+		* How to implement reward system
+		* How token system applies
+		* Where are rewards given in our combat system
+
+etails
 
 ## Presentation 3
 
