@@ -36,9 +36,9 @@
 2. 11/02 - 11/08
 	* Manager: Alex Chlpka
 	* Goals:
-		1. ...
-		1. ...
-		1. ...
+		1. Make scoring AI smarter by adding more rules
+		2. Add at least the first enemy's struct and use that tolerance instead of 0
+		3. 
 2. 11/09 - 11/15
 	* Manager: Colin Ferlan
 	* Goals:
