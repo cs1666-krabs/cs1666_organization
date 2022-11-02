@@ -38,7 +38,9 @@
 	* Goals:
 		1. Make scoring AI smarter by adding more rules
 		2. Add at least the first enemy's struct and use that tolerance instead of 0
-		3. 
+		3. Fix gravity/vertical movement when colliding with enemy
+		4. Add a block action
+		5. Start implementing states for the enemy (movement?)
 2. 11/09 - 11/15
 	* Manager: Colin Ferlan
 	* Goals:
