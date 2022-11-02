@@ -48,6 +48,7 @@
 		4. Make surface look more beach-like
 		5. Make clients send inputs to server
 		6. Make server send game state to client
+		7. Finish multiple client support
 2. 11/09 - 11/15
 	* Manager: Matthew Glazar
 	* Goals:
