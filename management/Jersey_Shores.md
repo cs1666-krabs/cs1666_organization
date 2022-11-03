@@ -35,9 +35,9 @@
 2. 11/02 - 11/08
 	* Manager: Zhimin Li
 	* Goals:
-		1. ...
-		1. ...
-		1. ...
+		1. Work on screen border collisions
+		2. Work on stemmer and add stopwords item
+		3. Work on UI and python model
 2. 11/09 - 11/15
 	* Manager: Sydni Roller
 	* Goals:
