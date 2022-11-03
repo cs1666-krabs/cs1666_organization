@@ -39,9 +39,10 @@
 2. 11/02 - 11/08
 	* Manager: Jacob Salmon
 	* Goals:
-		1. ...
-		1. ...
-		1. ...
+		1. AI: Implement movement mesh for map 
+		2. AI: Implement enemy level traversal with basic pathfinding
+		3. Physics: Implement projectile motion for ranged attack
+		4. Physics: Implement a breakable object that when broken splits into multiple pieces
 2. 11/09 - 11/15
 	* Manager: Bailey Mathien
 	* Goals:
