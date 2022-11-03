@@ -42,9 +42,13 @@
 2. 11/02 - 11/08
 	* Manager: Wilson Biggs
 	* Goals:
-		1. ...
-		1. ...
-		1. ...
+		1. Refine perlin noise cave generation
+		2. Add biomes that affect ore generation
+		3. Add randomly generated structures
+		4. Make surface look more beach-like
+		5. Make clients send inputs to server
+		6. Make server send game state to client
+		7. Finish multiple client support
 2. 11/09 - 11/15
 	* Manager: Matthew Glazar
 	* Goals:
