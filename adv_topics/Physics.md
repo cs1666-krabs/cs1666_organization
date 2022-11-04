@@ -42,7 +42,7 @@
 
 ## Presentation 2
 
-* Intro/Examples of Interesting Physics Systems In Games
+* Intro to Talk/Review of Physics Systems
 	* Why are physics systems important as a game mechanic?
 		* Physics system are game system that are already familiar to players since they replicate the interactions of objects in the real world
 	* BOTW
