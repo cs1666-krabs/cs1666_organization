@@ -35,24 +35,24 @@
 
 ## Presentation 2
 
-* Overview of our topics
+* Networking Overview
 	* What are the differences between TCP and UDP (on a macro level, key features)
 	* When would you use a TCP connection vs when would you use a UDP connection
 	* Server-client connection vs a P2P connection
 		* Use cases and why?
-* Explanation of an example connection
+* Explanation of Example Connection
 	* Initially, we planned on making our game TCP-based. Why?
 		* TCP demo code explanation
 	* We switched to UDP. Why?
 		* UDP demo code explanation
-* What does code look like in our particular game?
+* Message passing in our game
 	* Should we use a client-server connection or should we make a P2P connection?
 	* Why did we make the decision to make our game P2P?
 		* What are future considerations/drawbacks of making that decision?
 	* Setting up a player's UDP Socket
 	* Channels vs Mutexes to communicate with host() or client()
 		* Problems with channels and mutexes
-* What we want to do and how we're gonna do it
+* Advanced and future networking implementation
 	* Networking with more than two people (Multiple player battles)
 		* Good thing we switched to UDP
 	* Trading items between players:
