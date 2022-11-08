@@ -30,7 +30,7 @@
 		3. Naive dummy AI
 		4. Be able to generate multiple rooms
 		5. AI presentation outline
-2. 10/26 - 11/01
+6. 10/26 - 11/01
 	* Manager: Brian Lucas
 	* Goals:
 		1. Implement a graph data structure to store the rooms and hallways(edges)
@@ -38,25 +38,28 @@
 		3. Add features to minimap
 		4. Setup training environment for AI
 		5. Setup agent states for AI training
-2. 11/02 - 11/08
-	* Manager: NAME
+7. 11/02 - 11/08
+	* Manager: None
 	* Goals:
-		1. ...
-		1. ...
-		1. ...
-2. 11/09 - 11/15
+		1. Implement Token move sets for player
+		2. Implement Agent Trainer and Training functions
+		3. Move delaunay code into main repo
+		4. Represent it as a graph and visualize it as lines in the minimap
+		5. Bresenham's line drawing algorithm
+		6. Get start on Prim's MST
+8. 11/09 - 11/15
 	* Manager: Michael Schafer
 	* Goals:
 		1. ...
 		1. ...
 		1. ...
-2. 11/16 - 11/29
+9. 11/16 - 11/29
 	* Manager: NAME
 	* Goals:
 		1. ...
 		1. ...
 		1. ...
-2. 11/30 - 12/06
+10. 11/30 - 12/06
 	* Manager: John Stroud
 	* Goals:
 		1. ...

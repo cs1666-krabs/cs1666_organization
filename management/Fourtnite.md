@@ -37,9 +37,9 @@
 2. 11/02 - 11/08
 	* Manager: Nathan Myers
 	* Goals:
-		1. ...
-		1. ...
-		1. ...
+		1. Implement combat logic (attack, defend, heal, etc.) for battles. Battles should end when one player's health is depleted.
+		2. Properly manage turn based actions between a host and a client.
+		3. Correct seeding issue caused by entropy or adjacency miscalculation.
 2. 11/09 - 11/15
 	* Manager: Prateek Jukalkar
 	* Goals:
