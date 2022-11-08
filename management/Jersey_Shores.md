@@ -35,9 +35,9 @@
 2. 11/02 - 11/08
 	* Manager: Zhimin Li
 	* Goals:
-		1. Work on screen border collisions
-		2. Work on stemmer and add stopwords item
-		3. Work on UI and python model
+		1. Slove screen border collisions
+		2. Get rover to appear and disappear on the screen
+		3. Using crates to implement stemmer and stopwords.
 2. 11/09 - 11/15
 	* Manager: Sydni Roller
 	* Goals:
