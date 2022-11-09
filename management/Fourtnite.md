@@ -43,9 +43,9 @@
 2. 11/09 - 11/15
 	* Manager: Prateek Jukalkar
 	* Goals:
-		1. ...
-		1. ...
-		1. ...
+		1. Reworking battle logic to decouple the player from the player's monsters
+		1. Implement typing into the monster system
+		1. Implement bidirectional channels for communication between main game thread and player thread
 2. 11/16 - 11/29
 	* Manager: NAME
 	* Goals:
