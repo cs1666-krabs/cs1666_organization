@@ -44,9 +44,11 @@
 2. 11/09 - 11/15
 	* Manager: Colin Ferlan
 	* Goals:
-		1. ...
-		1. ...
-		1. ...
+		1. Implement a start screen so it doesn't go directly into a conversation
+		2. Work on sentiment analysis and scoring so the conversation AI is more robust/handles more words
+		3. Implement (mildly) intelligent conversation AI response
+		4. Implement enemy-specific version of the fight actions for the fight AI to use
+		5. Expand the enemy FSM to use fight actions (movement/attacking)
 2. 11/16 - 11/29
 	* Manager: Adam Sheelar
 	* Goals:
