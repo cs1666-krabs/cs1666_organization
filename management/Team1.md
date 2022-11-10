@@ -46,10 +46,11 @@
 2. 11/09 - 11/15
 	* Manager: Bailey Mathien
 	* Goals:
-		1. Physics: Implement damage for attacks
-		2. Physics: Implement a jetpack object that will allow the player to fly throughout the map
-		3. AI:
-		4. AI
+		1. Physics: Attack damage working
+		2. Physics: Implement the jetpack object so that it will allow the player to fly throughout the map
+		3. Physics: Implement a basic particle system for the shrapnel
+		4. AI: Complete Movement mesh for the main map, not just for testing
+		5. AI: Enemy can seek out and attack player, or retreat if health is low
 2. 11/16 - 11/29
 	* Manager: NAME
 	* Goals:
