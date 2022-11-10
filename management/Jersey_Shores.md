@@ -41,9 +41,10 @@
 2. 11/09 - 11/15
 	* Manager: Sydni Roller
 	* Goals:
-		1. ...
-		1. ...
-		1. ...
+		1. Smooth rotation via torque
+		2. Fix edge collisions
+		3. Get a new scene working with minimal physics
+		4. Transfer our python model of the embedding algorithm to an extremely basic version in rust
 2. 11/16 - 11/29
 	* Manager: Qiran Li
 	* Goals:
