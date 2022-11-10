@@ -50,9 +50,12 @@
 8. 11/09 - 11/15
 	* Manager: Michael Schafer
 	* Goals:
-		1. ...
-		1. ...
-		1. ...
+		1. Finish Prims Algorithm
+		2. Start A* Algorithm
+		3. Implement Final Room and Key room
+		4. Start putting in pre-sets of training process
+		5. Deploy serde
+		6. Adjust File Management/Layout
 9. 11/16 - 11/29
 	* Manager: NAME
 	* Goals:
