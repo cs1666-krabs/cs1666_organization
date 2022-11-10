@@ -47,7 +47,7 @@
 	* Manager: Bailey Mathien
 	* Goals:
 		1. Physics: Attack damage working
-		2. Physics: Implement the jetpack object so that it will allow the player to fly throughout the map
+		2. Physics: Implement the umbrella and jumping boots objects
 		3. Physics: Implement a basic particle system for the shrapnel
 		4. AI: Complete Movement mesh for the main map, not just for testing
 		5. AI: Enemy can seek out and attack player, or retreat if health is low
