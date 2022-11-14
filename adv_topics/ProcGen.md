@@ -158,11 +158,90 @@
 
 ## Presentation 3
 
-* Topic 1
-	* Details
-	* Details
-	* Details
-* Topic 2
-	* Details
-	* Details
-	* Details
+* Topic 1: Natural 2D Terrain with Procedural Generation
+	* Intro & Infinite World
+		* Intro:
+			* So we want to create a sort of natural 2D world…
+				* Similar in style to Terraria.
+			* We want something that looks smooth-ish, like nature.
+			* There is no end goal or end really it is going to be infinite
+			* Can't manually create an infinite world 
+		* Infinity
+			* Fractioned generation
+				* Can't generate everything all at once 
+			* An infinitely long world would cause infinitely large amount of ram
+				* We have to spawn and despawn chunks as we approach them
+			* Deterministic Seed 
+				* Why you need it to be deterministic
+			* Chunk borders would cut off different generations like caves and ore veins so keep that in mind in infinite generation
+	* World surface (Aidan)
+		* Pure noise sucks. Impossible to navigate, uninteresting to explore.
+		* Except, when we zoom in, doesn't look too bad… we got some "mountains" and "valleys" here. 
+			* So we can create a line between the points and generate block height from that…
+			* Yeah, but a line isn't great though. Still really jagged.
+			* Let's smooth this out (Interpolate between points).
+				* Interpolation algorithm:
+					* where it comes from
+					* The formula itself
+					* What it looks like, graphed
+			* Okay, so how do we implement that in a game?
+		* Discussion of actual 1D perlin algorithm using setup above
+			* Basically generate points and interpolate between them.
+			* (Show code)
+			* Scaling height and width of hills/valleys
+		* Let's use multiple slices.
+			* Depth of sand/dirt
+		* Let's use another slice to shift everything left / right
+			* More interesting; creates overhangs.
+		* Alternate perlin noise algorithms
+			* Sin function: sin (2 * x) + sin(pi * x)
+				* Isn't periodic → therefore, can use values along this function.
+	* Caves (2D perlin noise) (Matt)
+		* Hashing
+			* X,y
+			* Needs to be different in each game
+			* How hash table is implemented
+		* Gradient
+			* What gradient is
+			* How it is calculated
+		* Linear interpolation
+			* Concept
+			* Implementation
+		* Fade Function
+			* Purpose
+			* Algorithm
+		* Thresholding
+			* Purpose
+			* Visualization
+			* Parameters
+	* Biomes + Ore Generation (Wilson)
+		* Ore generation
+			* The way ore veins look is a bit different from the "clouds" that Perlin noise is best for
+			* Random polygons? Random lines?
+				* Random lines are simpler
+			* How ore generation is implemented step-by-step
+				* For each chunk, randomly determine how many veins to generate
+					* Seed
+				* Generate a seed for this vein based on the current vein
+					* Generate start coordinate
+					* Generate end coordinate - Y must be below current coord
+					* Generate thickness
+				* To find out if a block is inside the vein, find distance to line and check if within thickness
+					* Formula for distance from point to line segment is somewhat complex
+				* How we store ore veins (todo: actually reimplement that how Tobias was saying)
+		* Biomes
+			* Different approaches are possible - Perlin noise clouds, Perlin slices
+				* Slices are already used for transition from sand to stone, which is very similar to what we want for biomes
+			* How biomes are implemented step-by-step
+				* How the code decides when to switch from one biome to the next
+			* We now have these biomes…
+				* …which contain these ores
+	* Structures (Ryan)
+		* How structures are implemented 
+			* Follow a rule set in empty space 
+			* Have a tree expand in the space provided 
+		* Perlin worms
+			* Algorithm
+			* Mineshaft depiction 
+	* Conclusions
+		* Thanks!

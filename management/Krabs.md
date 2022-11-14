@@ -52,9 +52,12 @@
 2. 11/09 - 11/15
 	* Manager: Matthew Glazar
 	* Goals:
-		1. ...
-		1. ...
-		1. ...
+		1. Write procedural generation advanced topic slides
+		2. Fix movement bugs
+		3. Integrate all state processing to server
+		4. Add client timeouts
+		5. Make client obey all server state messages
+		6. Implement server saving and loading
 2. 11/16 - 11/29
 	* Manager: NAME
 	* Goals:
