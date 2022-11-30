@@ -67,6 +67,10 @@
 2. 11/30 - 12/06
 	* Manager: Daniel Hopping
 	* Goals:
-		1. ...
-		1. ...
-		1. ...
+		1. Client sends mining inputs
+		2. Client displays mined blocks (inventory)
+		3. Server sends delta block info
+		4. Server sends delta movement
+		5. Connect caves
+		6. Condense ores and caves into one terrain
+		7. General cleanup
